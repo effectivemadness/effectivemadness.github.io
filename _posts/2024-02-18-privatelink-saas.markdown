@@ -1,7 +1,7 @@
 ---
 title:  "Privatelink 로 SaaS(Datadog) 트래픽 private하게 보내기"
 date:   2024-02-18 20:48:34+0900
-categories: [cloud]
+categories: [Cloud]
 tags: [tech, aws, datadog, network]
 ---
 회사에서 Observability 가이드/거버넌스 업무를 하고 있는데, 그 중 가장 많이 쓰이는 서비스가 Datadog입니다. 처음 도입 후 이제 꽤 많은 조직에서 사용중인데, 사용중인 조직 중 한 곳에서 우리 서비스 인프라에서 Datadog으로 전송하는 비용을 줄일 수 없을까? 라는 고민을 하고 있어 저희도 여러 고민을 했었습니다. 
