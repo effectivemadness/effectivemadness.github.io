@@ -1,6 +1,6 @@
 ---
 title:  "귀차니스트가 외국 컨퍼런스 세션 리스트 긁고 번역 요약하는 방법(feat. DeepL, OpenAI)"
-date:   2024-03-3 23:33:31+0900
+date:   2024-03-17 21:33:31+0900
 categories: [Trivia]
 tags: [tech, AI, chatGPT, datadog]
 ---
