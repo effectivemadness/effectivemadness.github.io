@@ -1,6 +1,6 @@
 ---
 title:  "글또 10기를 시작하며 (글또: 작가가 되)"
-date:   2024-05-12 19:32:54+0900
+date:   2024-10-13 23:24:54+0900
 categories: [self]
 tags: [not-tech, writing, 글또]
 ---
