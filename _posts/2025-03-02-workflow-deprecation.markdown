@@ -1,6 +1,6 @@
 ---
 title:  " 그날 내 블로그가 멈췄다. - Github Workflow deprecated 해결하기"
-date:   2025-03-02 233:29:10+0900
+date:   2025-03-02 23:29:10+0900
 categories: [TIL]
 tags: [tech]
 ---
